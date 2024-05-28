@@ -161,7 +161,7 @@ usuario5.cambiarDireccion = function (newMunicipio, newCalle, newNumero) {
     }
     
 }
-usuario.cambiarDireccion("Guatemala", "san pedro", "1");
+usuario5.cambiarDireccion("Guatemala", "san pedro", "1");
 
 
 console.log(usuario0);
